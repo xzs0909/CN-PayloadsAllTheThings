@@ -1,9 +1,9 @@
 # Payloads All The Things
-A list of useful payloads and bypasses for Web Application Security.
-Feel free to improve with your payloads and techniques !
+一系列针对Web应用安全的实用payload和bypas。
+请随意运用你自己的payload和技术来完善。
 I <3 pull requests :)
 
-# Tools
+# 工具
 * [Kali Linux](https://www.kali.org/)
 * [Web Developper](https://addons.mozilla.org/en-Gb/firefox/addon/web-developer/)
 * [Hackbar](https://addons.mozilla.org/en-Gb/firefox/addon/hackbar/?src=search)
@@ -19,7 +19,7 @@ I <3 pull requests :)
 * [Wappalyzer](https://wappalyzer.com/download)
 * [Metasploit](https://www.metasploit.com/)
 
-# Docker
+# Docker（译者注：一些渗透环境和漏洞靶机）
 * `docker pull remnux/metasploit` - [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
 * `docker pull paoloo/sqlmap` - [docker-sqlmap](https://hub.docker.com/r/paoloo/sqlmap/)
 * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
@@ -34,8 +34,8 @@ I <3 pull requests :)
 * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
 * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop](https://github.com/bkimminich/juice-shop#docker-container)
 
-# More resources
-Book's list:
+# 更多资源
+书单：
 * [Web Hacking 101](https://leanpub.com/web-hacking-101)
 * [OWASP Testing Guide v4](https://www.owasp.org/index.php/OWASP_Testing_Project)
 * [Penetration Testing: A Hands-On Introduction to Hacking](http://amzn.to/2dhHTSn)
@@ -54,7 +54,7 @@ Book's list:
 * [The Mobile Application Hackers Handbook by Dominic Chell et al., 2015](http://www.wiley.com/WileyCDA/WileyTitle/productCd-1118958500.html)
 * [Car Hacker's Handbook by Craig Smith, 2016](https://www.nostarch.com/carhacking)
 
-Blogs/Websites
+博客/网站
 * http://blog.zsec.uk/101-web-testing-tooling/
 * https://blog.innerht.ml
 * https://blog.zsec.uk
@@ -67,7 +67,7 @@ Youtube
 * [BSidesSF 101 The Tales of a Bug Bounty Hunter - Arne Swinnen](https://www.youtube.com/watch?v=dsekKYNLBbc)
 * [Security Fest 2016 The Secret life of a Bug Bounty Hunter - Frans Rosén](https://www.youtube.com/watch?v=KDo68Laayh8)
 
-Practice
+练习
 * [Root-Me](https://www.root-me.org)
 * [Zenk-Security](https://www.zenk-security.com/epreuves.php)
 * [W3Challs](https://w3challs.com/)
@@ -80,7 +80,7 @@ Practice
 * [HackThisSite](https://hackthissite.org)
 * [PentesterLab : Learn Web Penetration Testing: The Right Way](https://pentesterlab.com/)
 
-Bug Bounty
+漏洞奖金
 * [HackerOne](https://hackerone.com)
 * [BugCrowd](https://bugcrowd.com)
 * [Bounty Factory](https://bountyfactory.io)
