@@ -84,6 +84,6 @@ Remainder:
 
 
 
-## Thanks to
+## 感谢
 * https://www.owasp.org/index.php/CRLF_Injection
 * https://vulners.com/hackerone/H1:192749
