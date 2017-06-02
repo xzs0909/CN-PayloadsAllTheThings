@@ -39,6 +39,6 @@ List of the top Alexa 100,000 sites with permutations on the TLD and www. For ex
 ```
 
 
-## Thanks to
+## 感谢
 * https://community.rapid7.com/community/infosec/blog/2013/03/27/1951-open-s3-buckets
 * https://digi.ninja/projects/bucket_finder.php
